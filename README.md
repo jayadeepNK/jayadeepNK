@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm K.N Jayadeep</h1>
 <h3 align="center">A passionate MERN STACK developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayadeepnk&label=Profile%20views&color=0e75b6&style=flat" alt="jayadeepnk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayadeepnk" alt="jayadeepnk" /></a> </p>
 
@@ -25,18 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayadeepnk&show_icons=true&locale=en" alt="jayadeepnk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayadeepnk&" alt="jayadeepnk" /></p>
-
-<!--
-**jayadeepNK/jayadeepNK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
